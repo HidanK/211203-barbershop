@@ -1,0 +1,29 @@
+body {
+    font-family: PTSans;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+}
+
+.main-header{
+    background-color: #000;
+}
+
+.main-header a{
+    font-family: PTSans;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.index-main {
+    background: url("img/background-index.jpg") no-repeat;
+}
+
+.index-main  .features .features-name,
+.index-main  .features p {
+    color: #f7f4f1;
+    font-size: 30px;
+    line-height: 42px;
+}
