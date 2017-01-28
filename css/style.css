@@ -1,29 +1,69 @@
 body {
-    font-family: PTSans;
+    font-family: "PT Sans", "Tahoma", sans-serif;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.714;
     color: #000;
 }
 
-.main-header{
+.main-header {
     background-color: #000;
 }
 
-.main-header a{
-    font-family: PTSans;
-    font-size: 14px;
-    line-height: 24px;
+.main-header a {
     color: #fff;
     text-decoration: none;
 }
 
+main h1 {
+    font-family: "PT Sans", "Tahoma", sans-serif;
+    color: #000;
+    font-size: 30px;
+    line-height: 1.4;
+}
+
+main h3 {
+    font-family: "PT Sans", "Tahoma", sans-serif;
+    color: #000;
+    font-size: 24px;
+    line-height: 1.25;
+}
+
+/*index*/
+
 .index-main {
-    background: url("img/background-index.jpg") no-repeat;
+    background: url("../img/background-index.jpg") no-repeat;
 }
 
 .index-main  .features .features-name,
 .index-main  .features p {
     color: #f7f4f1;
     font-size: 30px;
-    line-height: 42px;
+    line-height: 1.4;
 }
+
+.index-main .index-content-title {
+    font-family: "PT Sans", "Tahoma", sans-serif;
+    color: #000;
+    font-size: 30px;
+    line-height: 1.4;
+}
+
+/*catalog*/
+
+main .catalog h3{
+    font-family: "Myriad Pro", "Tahoma", sans-serif;
+    color: #000;
+    font-size: 14px;
+    line-height: 1.285;
+}
+
+/*price*/
+
+main .price-title {
+    font-family: "Myriad Pro", "Tahoma", sans-serif;
+    color: #000;
+    font-size: 48px;
+    line-height: 1;
+}
+
+/*catalog-item*/
