@@ -6,68 +6,22 @@ body {
     text-transform: uppercase;
 }
 
-.main-header {
-    background-color: #000;
-}
-
-.main-header a {
-    color: #fff;
-    text-decoration: none;
-}
-
-main h1 {
-    font-family: "PT Sans", "Tahoma", sans-serif;
-    color: #000;
+h1 {
     font-size: 30px;
     line-height: 1.4;
 }
 
-main h3 {
-    font-family: "PT Sans", "Tahoma", sans-serif;
-    color: #000;
+h2 {
+    font-size: 30px;
+    line-height: 1.4;
+}
+
+h3 {
     font-size: 24px;
     line-height: 1.25;
     font-weight: bold;
 }
 
-/*index*/
-
-.index-main {
-    background: url("../img/background-index.jpg") no-repeat;
+.main-header {
+    background-color: #000;
 }
-
-.index-main  .features .features-name,
-.index-main  .features p {
-    color: #f7f4f1;
-    font-size: 30px;
-    line-height: 1.4;
-}
-
-.index-main .index-content-title {
-    font-family: "PT Sans", "Tahoma", sans-serif;
-    color: #000;
-    font-size: 30px;
-    line-height: 1.4;
-    font-weight: bold;
-}
-
-/*catalog*/
-
-main .catalog h3{
-    font-family: "Myriad Pro", "Tahoma", sans-serif;
-    color: #000;
-    font-size: 14px;
-    line-height: 1.285;
-}
-
-/*price*/
-
-main .price-title {
-    font-family: "Myriad Pro", "Tahoma", sans-serif;
-    color: #000;
-    font-size: 48px;
-    line-height: 1.2;
-    font-weight: bold;
-}
-
-/*catalog-item*/
